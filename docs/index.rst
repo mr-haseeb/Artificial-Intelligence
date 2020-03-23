@@ -9,8 +9,9 @@ Welcome to Artifical Intelligence's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-    welcome.rst
-    jupyter notebooks\test.ipynb
+   
+   welcome.rst
+   notebooks/test.ipynb
 
 
 
