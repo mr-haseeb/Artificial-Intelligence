@@ -1,5 +1,4 @@
-# Artificial-Intelligence
-
+# :fire: Artificial-Intelligence :tada:
 Ultimated AI Resources and and Scripts 
 
 ## Getting Started
